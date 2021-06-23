@@ -2,7 +2,7 @@
 
 <h3 align="center"> ( Data From 2012 Jan To 2012 Dec ) </h3>
 
-<img src="image.jpg"
+<img src="https://github.com/Nsadaa/Weather-Exploratory-Data-Analysis-Visualization/blob/main/Weather%20Data%20Analysis%20%26%20Visualization/Image.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
